@@ -1,0 +1,24 @@
+body{
+    background-color:#ffc93c;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    text-align: center;
+    font-size: 25px;
+    color: #07689f;
+}
+
+.header img{
+    height: 400px;
+}
+
+.question{
+    color: #07689f;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 25px;
+    font-weight: 400;
+}
